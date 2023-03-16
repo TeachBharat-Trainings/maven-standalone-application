@@ -19,6 +19,7 @@ public class HelloWorld {
 		String c = 'DevOps cource is launched with colaberation of iScope'
 		int x;
 		int y;
+		int p;
 		return new Date();
 
 	}
