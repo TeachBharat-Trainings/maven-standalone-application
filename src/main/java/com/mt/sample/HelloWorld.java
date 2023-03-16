@@ -16,7 +16,8 @@ public class HelloWorld {
 	private static Date getLocalCurrentDate() {
 		String m = "TeachBharat";
 		String b = 'iScope-AVD'
-		String c = 'DevOps cource is launched with colaberation of iScope'	
+		String c = 'DevOps cource is launched with colaberation of iScope'
+		int x;
 		return new Date();
 
 	}
