@@ -18,6 +18,7 @@ public class HelloWorld {
 		String b = 'iScope-AVD'
 		String c = 'DevOps cource is launched with colaberation of iScope'
 		int x;
+		int y;
 		return new Date();
 
 	}
